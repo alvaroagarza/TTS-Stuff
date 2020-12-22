@@ -1,0 +1,56 @@
+.jumbotron {
+	background-image:url('schoolF.jpg'); 
+	padding: 10%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin-top: -40px;
+	background-attachment: fixed;
+	background-position:  center -238px;
+	
+
+}
+
+.jumbotron h1 {
+	top:18;
+	left:0;
+	padding-left: 20px;
+    color: #F7FAFE;
+}
+
+
+.nav-color {
+
+    background-color: peru;
+
+}
+* {
+
+    font-family: "Titillium Web";
+}
+
+footer {
+    background-color: red;
+    bottom:0;
+    position: absolute;
+	width: 100%;
+    height: auto;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	float: right;
+	
+}
+
+footer p {
+	float: left;
+}
+
+footer a,
+footer p {
+
+	color:#fff;
+	vertical-align: middle;
+}
