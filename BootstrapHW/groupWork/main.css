@@ -1,0 +1,27 @@
+* {
+    border-radius: 0 !important;
+  }
+
+.btn-space {
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-item {
+    width: 600px;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+button {
+
+    margin: 5px 5px;
+    
+}
+    
+
