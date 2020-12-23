@@ -4,10 +4,12 @@
 
 .btn-space {
     height: 500px;
-    background-color: grey;
+    background-image: url('cFood.jpg');
     display: flex;
     align-items: center;
     justify-content: center;
+    background-size: 100% auto;
+    background-position-y: -280px;
 }
 
 .btn-item {
